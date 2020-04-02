@@ -1,0 +1,21 @@
+__ci_last_regenerate|i:1580456790;produk_haji|a:1:{i:0;O:8:"stdClass":8:{s:2:"id";s:1:"9";s:11:"kategori_id";s:1:"1";s:13:"nama_kegiatan";s:12:"Haji Reguler";s:9:"deskripsi";s:0:"";s:16:"tanggal_kegiatan";s:10:"2020-02-01";s:5:"harga";s:1:"-";s:6:"gambar";s:5:"7.jpg";s:6:"status";s:1:"1";}}produk_umroh|a:2:{i:0;O:8:"stdClass":8:{s:2:"id";s:1:"8";s:11:"kategori_id";s:1:"2";s:13:"nama_kegiatan";s:19:"Umroh Periode Maret";s:9:"deskripsi";s:529:" <ul> <li>Umroh + Turkey 12 Hari</li> <li>Harga Mulai Dari 30 jt</li> <li>Keberangkatan 15 MARET 2020</li> </ul> <p>&nbsp;</p> <p><strong>Hotel Tujuan</strong></p> <table style="height: 97px; width: 488px;"> <tbody> <tr> <td style="width: 205px; text-align: center;"><strong>Madinah</strong></td> <td style="width: 275px; text-align: center;"><strong>Mekkah</strong></td> </tr> <tr> <td style="width: 205px;">Mubarok Silver (5 Star)</td> <td style="width: 275px;">Ajyan Makarim (4 star)</td> </tr> </tbody> </table> <p>&nbsp;</p>";s:16:"tanggal_kegiatan";s:10:"2020-03-01";s:5:"harga";s:5:" 30jt";s:6:"gambar";s:5:"7.jpg";s:6:"status";s:1:"1";}i:1;O:8:"stdClass":8:{s:2:"id";s:1:"7";s:11:"kategori_id";s:1:"2";s:13:"nama_kegiatan";s:20:"Umroh Promo Februari";s:9:"deskripsi";s:614:"<p><strong>Promo Dalam Rangka Milad KBIHU Maulana Azhari</strong></p>
+<ul>
+<li>Umroh + Thaif</li>
+<li>Harga Mulai Dari 23.5 jt</li>
+<li>Keberangkatan 12 Februari 2020</li>
+</ul>
+<p>&nbsp;</p>
+<p><strong>Hotel Tujuan</strong></p>
+<table style="height: 97px; width: 488px;">
+<tbody>
+<tr>
+<td style="width: 205px; text-align: center;"><strong>Madinah</strong></td>
+<td style="width: 275px; text-align: center;"><strong>Mekkah</strong></td>
+</tr>
+<tr>
+<td style="width: 205px;">Mubarok Silver (5 Star)</td>
+<td style="width: 275px;">Ajyan Makarim (4 star)</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>";s:16:"tanggal_kegiatan";s:10:"2020-02-12";s:5:"harga";s:4:"23jt";s:6:"gambar";s:5:"7.jpg";s:6:"status";s:1:"1";}}
